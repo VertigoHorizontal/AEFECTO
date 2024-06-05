@@ -34,7 +34,7 @@ body{
 
 .links.icon{
     margin: 0 24px;
-    font-size: 28px;
+    font-size: 48px;
     color: var(--color-primary);
     text-decoration: none;
     background: none;
@@ -47,11 +47,12 @@ body{
      font-family:Barrkey;
      color: var(--color-primary);
      text-align: center;
+     margin-top: 0%;
 }
 
 
 .portada{
-  width: 30%;
+  width: 50%;
    filter: drop-shadow(0 0 5px black);
    flex-flow: row wrap;
 align-items: center;
