@@ -20,6 +20,7 @@ body{
     list-style: none;
     padding:0;
     position:relative;
+    width: 100%;
 
 }
 
@@ -54,6 +55,7 @@ body{
    filter: drop-shadow(0 0 5px black);
    flex-flow: row wrap;
 align-items: center;
+
   
 }
 
