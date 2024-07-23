@@ -1,0 +1,22 @@
+:root{
+    --color-dark:#4C6983;
+}
+
+body{
+   height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: var(--color-dark);
+
+}
+
+
+.convocatoria{
+    max-width: 100%;
+    height: auto;
+
+  
+}
+
